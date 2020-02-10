@@ -1,0 +1,32 @@
+{
+    "measures":[
+        {
+        "name": "New Logo Customer Count Control_All",
+        "expression": [
+            "",
+            "SWITCH(TRUE(),",
+            "ISFILTERED('Product Version'[Majority Deployed Version])&&NOT(ISCROSSFILTERED('Product'[Product_ID9_Key]))",
+            "    ,BLANK()",
+            ",ISFILTERED('Product Version'[Majority Deployed Version])&&NOT(ISFILTERED('Product Version'[Deployed Version]))",
+            "    ,CALCULATE([New Logo Customer Count Control_NCCT_All],RIGHT('License and Deployment'[Product_Version_Key_Include_LMP],1)<>\"#\")",
+            "",
+            ",[New Logo Customer Count Control_NCCT_All]",
+            ")"
+        ],
+        "isHidden": true
+        },
+        {
+            "name": "New Logo Customer Count Control_Org",
+            "expression": [
+                "",
+                "SWITCH(TRUE(),",
+                "ISFILTERED('Product Version'[Majority Deployed Version])&&NOT(ISFILTERED('Product Version'[Deployed Version]))",
+                "\t,CALCULATE([New Logo Customer Count_Org],RIGHT('License and Deployment'[Product_Version_Key],1)<>\"#\")",
+                "",
+                ",[New Logo Customer Count_Org]",
+                ")"
+            ],
+            "isHidden": true
+        }
+    ]
+}
