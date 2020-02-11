@@ -1,6 +1,7 @@
 import json
 from collections import defaultdict
 
+#
 class Cube:
 
     cube_count = 0
