@@ -16,7 +16,7 @@
 #         columns_str += f', {i}'
 
 
-# print(columns_str)
+# print(columns_str)#
 
 
 nest_list = [['Active cusotmer count', 'Active customer count_Control'], ['Active customer count_Control', 'Active customer count_All']]
