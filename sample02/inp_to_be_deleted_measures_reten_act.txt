@@ -1,0 +1,32 @@
+Active customer count (YoY)_All
+Active Customer Count LM_LY_All
+P_Active customer count (YoY)_All
+Product Retention Rate of Active Customers (YoY)_All
+Retention Rate of Active Customers (YoY)
+Retention Rate of Active Customers (YoY) Control_All
+Retention Rate of Active Customers (YoY) Control_SP_All
+Retention Rate of Active Customers (YoY)_All
+SR - Deployed ENT Active Customer Count (YoY)_All
+SR - Deployed ENT Active Customer Count LM_LY_All
+SR - Deployed ENT P_Active Customer Count (YoY)_All
+SR - Deployed ENT_L0 Active Customer Count (YoY)_All
+SR - Deployed ENT_L0 Active Customer Count LM_LY_All
+SR - Deployed ENT_L0 P_Active Customer Count (YoY)_All
+SR - Deployed ENT_L1 Active Customer Count (YoY)_All
+SR - Deployed ENT_L1 Active Customer Count LM_LY_All
+SR - Deployed ENT_L1 P_Active Customer Count (YoY)_All
+SR - Deployed ENT_L2 Active Customer Count (YoY)_All
+SR - Deployed ENT_L2 Active Customer Count LM_LY_All
+SR - Deployed ENT_L2 P_Active Customer Count (YoY)_All
+SR - Deployed SB Active Customer Count (YoY)_All
+SR - Deployed SB Active Customer Count LM_LY_All
+SR - Deployed SB P_Active Customer Count (YoY)_All
+SR - Deployed SB_L0 Active Customer Count (YoY)_All
+SR - Deployed SB_L0 Active Customer Count LM_LY_All
+SR - Deployed SB_L0 P_Active Customer Count (YoY)_All
+SR - Deployed SB_L1 Active Customer Count (YoY)_All
+SR - Deployed SB_L1 Active Customer Count LM_LY_All
+SR - Deployed SB_L1 P_Active Customer Count (YoY)_All
+SR - Deployed SB_L2 Active Customer Count (YoY)_All
+SR - Deployed SB_L2 Active Customer Count LM_LY_All
+SR - Deployed SB_L2 P_Active Customer Count (YoY)_All

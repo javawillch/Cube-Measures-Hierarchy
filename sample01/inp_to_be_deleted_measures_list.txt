@@ -1,0 +1,243 @@
+Active Customer Count_Org
+Active Customer Count LM_LY_Org
+Valid Customer Count LM_LY_Org
+Active Customer Count Control_Org
+Valid Customer Count Control_Org
+New Customer Count_Org
+New Logo Customer Count_Org
+Deployed Customer Count_Org
+New Customer Count Type control_Org
+New Customer Count control_M_Org
+Deployed Customer Count Control_Org
+New Logo Customer Count Control_Org
+Active Customer Count (YoY)_Org
+Valid Customer Count (YoY)_Org
+New Logo Customer Count for Past 12M_Org
+Lost Customer Count_Org
+Lost Customer Count byM_Org
+Lost Customer Count byQ_Org
+Lost Customer Count byY_Org
+Lost Customer Count for Past 12M_Org
+Product Retention Rate of Active Customers (YoY)_Org
+Product Retention Rate of Valid Customers (YoY)_Org
+Retention Rate of Active Customers (YoY)_Org
+Retention Rate of Valid Customers (YoY)_Org
+P_Valid Customer Count (YoY)_Org
+PTR_Valid Customer Count (YoY)_Org
+P_Active Customer Count (YoY)_Org
+Partner Retention Rate (YoY)_Org
+PTR_Valid Customer Count LM_LY_Org
+Product Lost Customer Count_Org
+Product Lost Customer Count for Past 12M_Org
+P_Lost Customer Count byM_Org
+P_Lost Customer Count byQ_Org
+P_Lost Customer Count byY_Org
+New Logo Customer Count for Past 12M Control_Org
+Lost Customer Count for Past 12M Control_Org
+Lost Customer Count Control_Org
+Retention Rate of Active Customers (YoY) Control_Org
+Retention Rate of Valid Customers (YoY) Control_Org
+Partner Retention Rate (YoY) Control_Org
+Years of Loyalty_Org
+Valid Seat Count_Org
+Valid Seat Count Control_Org
+P_L0 Deployed Seat Count_Org
+P_L1 Deployed Seat Count_Org
+P_L2 Deployed Seat Count_Org
+P_Deployed Seat Count_Org
+SC_Deployed Seat Count_Org
+SC_L2 Deployed Seat Count_Org
+SC_L1 Deployed Seat Count_Org
+SC_L0 Deployed Seat Count_Org
+V_Range_L2 Deployed Seat Count_Org
+V_Range_L1 Deployed Seat Count_Org
+V_Range_L0 Deployed Seat Count_Org
+SR - Valid Deployed Seat Count_Org
+SR - Valid_L2 Deployed Seat Count_Org
+SR - Valid_L1 Deployed Seat Count_Org
+SR - Valid_L0 Deployed Seat Count_Org
+SR - Deployed SB_L1 Deployed Seat Count_Org
+SR - Deployed SB_L2 Deployed Seat Count_Org
+SR - Deployed SB_L0 Deployed Seat Count_Org
+SR - Deployed SB Deployed Seat Count_Org
+SR - Deployed ENT_L2 Deployed Seat Count_Org
+SR - Deployed ENT_L1 Deployed Seat Count_Org
+SR - Deployed ENT_L0 Deployed Seat Count_Org
+SR - Deployed ENT Deployed Seat Count_Org
+D_Range_L2 Deployed Seat Count LM_LY_Org
+D_Range_L1 Deployed Seat Count LM_LY_Org
+D_Range_L2 Deployed Seat Count LM_Org
+D_Range_L1 Deployed Seat Count LM_Org
+D_Range_L0 Deployed Seat Count LM_Org
+D_Range_L2 Deployed Seat Count LQ_Org
+D_Range_L1 Deployed Seat Count LQ_Org
+D_Range_L0 Deployed Seat Count LQ_Org
+D_Range_L2 Deployed Seat Count LY_Org
+D_Range_L1 Deployed Seat Count LY_Org
+D_Range_L0 Deployed Seat Count LY_Org
+SR - Deployed SB_L2 Active Customer Count_Org
+SR - Deployed SB_L1 Active Customer Count_Org
+SR - Deployed SB_L0 Active Customer Count_Org
+SR - Deployed SB Active Customer Count_Org
+SR - Deployed ENT_L2 Active Customer Count_Org
+SR - Deployed ENT_L1 Active Customer Count_Org
+SR - Deployed ENT_L0 Active Customer Count_Org
+SR - Deployed ENT Active Customer Count_Org
+SR - Deployed Cross P_SB_L2 Active Customer Count_Org
+SR - Deployed Cross P_SB_L1 Active Customer Count_Org
+SR - Deployed Cross P_SB_L0 Active Customer Count_Org
+SR - Deployed Cross P_SB Active Customer Count_Org
+SR - Deployed Cross P_ENT_L2 Active Customer Count_Org
+SR - Deployed Cross P_ENT_L1 Active Customer Count_Org
+SR - Deployed Cross P_ENT_L0 Active Customer Count_Org
+SR - Deployed Cross P_ENT Active Customer Count_Org
+SR - Deployed SB_L2 Active Customer Count LM_LY_Org
+SR - Deployed SB_L1 Active Customer Count LM_LY_Org
+SR - Deployed SB_L0 Active Customer Count LM_LY_Org
+SR - Deployed SB Active Customer Count LM_LY_Org
+SR - Deployed ENT_L2 Active Customer Count LM_LY_Org
+SR - Deployed ENT_L1 Active Customer Count LM_LY_Org
+SR - Deployed ENT_L0 Active Customer Count LM_LY_Org
+SR - Deployed ENT Active Customer Count LM_LY_Org
+SR - Deployed SB_L2 Valid Customer Count LM_LY_Org
+SR - Deployed SB_L1 Valid Customer Count LM_LY_Org
+SR - Deployed SB_L0 Valid Customer Count LM_LY_Org
+SR - Deployed SB Valid Customer Count LM_LY_Org
+SR - Deployed ENT_L2 Valid Customer Count LM_LY_Org
+SR - Deployed ENT_L1 Valid Customer Count LM_LY_Org
+SR - Deployed ENT_L0 Valid Customer Count LM_LY_Org
+SR - Deployed ENT Valid Customer Count LM_LY_Org
+SR - Deployed SB_L2 Active Customer Count (YoY)_Org
+SR - Deployed SB_L1 Active Customer Count (YoY)_Org
+SR - Deployed SB_L0 Active Customer Count (YoY)_Org
+SR - Deployed SB Active Customer Count (YoY)_Org
+SR - Deployed ENT_L2 Active Customer Count (YoY)_Org
+SR - Deployed ENT_L1 Active Customer Count (YoY)_Org
+SR - Deployed ENT_L0 Active Customer Count (YoY)_Org
+SR - Deployed ENT Active Customer Count (YoY)_Org
+SR - Deployed SB_L2 Valid Customer Count (YoY)_Org
+SR - Deployed SB_L1 Valid Customer Count (YoY)_Org
+SR - Deployed SB_L0 Valid Customer Count (YoY)_Org
+SR - Deployed SB Valid Customer Count (YoY)_Org
+SR - Deployed ENT_L2 Valid Customer Count (YoY)_Org
+SR - Deployed ENT_L1 Valid Customer Count (YoY)_Org
+SR - Deployed ENT_L0 Valid Customer Count (YoY)_Org
+SR - Deployed ENT Valid Customer Count (YoY)_Org
+SR - Deployed SB_L2 Lost Customer Count byM_Org
+SR - Deployed SB_L1 Lost Customer Count byM_Org
+SR - Deployed SB_L0 Lost Customer Count byM_Org
+SR - Deployed SB Lost Customer Count byM_Org
+SR - Deployed ENT_L2 Lost Customer Count byM_Org
+SR - Deployed ENT_L1 Lost Customer Count byM_Org
+SR - Deployed ENT_L0 Lost Customer Count byM_Org
+SR - Deployed ENT Lost Customer Count byM_Org
+SR - Deployed SB_L2 Lost Customer Count byQ_Org
+SR - Deployed SB_L1 Lost Customer Count byQ_Org
+SR - Deployed SB_L0 Lost Customer Count byQ_Org
+SR - Deployed SB Lost Customer Count byQ_Org
+SR - Deployed ENT_L2 Lost Customer Count byQ_Org
+SR - Deployed ENT_L1 Lost Customer Count byQ_Org
+SR - Deployed ENT_L0 Lost Customer Count byQ_Org
+SR - Deployed ENT Lost Customer Count byQ_Org
+SR - Deployed SB_L2 Lost Customer Count byY_Org
+SR - Deployed SB_L1 Lost Customer Count byY_Org
+SR - Deployed SB_L0 Lost Customer Count byY_Org
+SR - Deployed SB Lost Customer Count byY_Org
+SR - Deployed ENT_L2 Lost Customer Count byY_Org
+SR - Deployed ENT_L1 Lost Customer Count byY_Org
+SR - Deployed ENT_L0 Lost Customer Count byY_Org
+SR - Deployed ENT Lost Customer Count byY_Org
+SR - Deployed SB_L2 Lost Customer Count for Past 12M_Org
+SR - Deployed SB_L1 Lost Customer Count for Past 12M_Org
+SR - Deployed SB_L0 Lost Customer Count for Past 12M_Org
+SR - Deployed SB Lost Customer Count for Past 12M_Org
+SR - Deployed ENT_L2 Lost Customer Count for Past 12M_Org
+SR - Deployed ENT_L1 Lost Customer Count for Past 12M_Org
+SR - Deployed ENT_L0 Lost Customer Count for Past 12M_Org
+SR - Deployed ENT Lost Customer Count for Past 12M_Org
+SR - Deployed SB_L2 P_Valid Customer Count (YoY)_Org
+SR - Deployed SB_L1 P_Valid Customer Count (YoY)_Org
+SR - Deployed SB_L0 P_Valid Customer Count (YoY)_Org
+SR - Deployed SB P_Valid Customer Count (YoY)_Org
+SR - Deployed ENT_L2 P_Valid Customer Count (YoY)_Org
+SR - Deployed ENT_L1 P_Valid Customer Count (YoY)_Org
+SR - Deployed ENT_L0 P_Valid Customer Count (YoY)_Org
+SR - Deployed ENT P_Valid Customer Count (YoY)_Org
+SR - Deployed SB_L2 P_Active Customer Count (YoY)_Org
+SR - Deployed SB_L1 P_Active Customer Count (YoY)_Org
+SR - Deployed SB_L0 P_Active Customer Count (YoY)_Org
+SR - Deployed SB P_Active Customer Count (YoY)_Org
+SR - Deployed ENT_L2 P_Active Customer Count (YoY)_Org
+SR - Deployed ENT_L1 P_Active Customer Count (YoY)_Org
+SR - Deployed ENT_L0 P_Active Customer Count (YoY)_Org
+SR - Deployed ENT P_Active Customer Count (YoY)_Org
+SR - Deployed SB_L2 Deployed Customer Count_Org
+SR - Deployed SB_L1 Deployed Customer Count_Org
+SR - Deployed SB_L0 Deployed Customer Count_Org
+SR - Deployed SB Deployed Customer Count_Org
+SR - Deployed ENT_L2 Deployed Customer Count_Org
+SR - Deployed ENT_L1 Deployed Customer Count_Org
+SR - Deployed ENT_L0 Deployed Customer Count_Org
+SR - Deployed ENT Deployed Customer Count_Org
+SR - Deployed SB_L2 PTR_Valid Customer Count (YoY)_Org
+SR - Deployed SB_L1 PTR_Valid Customer Count (YoY)_Org
+SR - Deployed SB_L0 PTR_Valid Customer Count (YoY)_Org
+SR - Deployed SB PTR_Valid Customer Count (YoY)_Org
+SR - Deployed ENT_L2 PTR_Valid Customer Count (YoY)_Org
+SR - Deployed ENT_L1 PTR_Valid Customer Count (YoY)_Org
+SR - Deployed ENT_L0 PTR_Valid Customer Count (YoY)_Org
+SR - Deployed ENT PTR_Valid Customer Count (YoY)_Org
+SR - Deployed SB_L2 PTR_Valid Customer Count LM_LY_Org
+SR - Deployed SB_L1 PTR_Valid Customer Count LM_LY_Org
+SR - Deployed SB_L0 PTR_Valid Customer Count LM_LY_Org
+SR - Deployed SB PTR_Valid Customer Count LM_LY_Org
+SR - Deployed ENT_L2 PTR_Valid Customer Count LM_LY_Org
+SR - Deployed ENT_L1 PTR_Valid Customer Count LM_LY_Org
+SR - Deployed ENT_L0 PTR_Valid Customer Count LM_LY_Org
+SR - Deployed ENT PTR_Valid Customer Count LM_LY_Org
+SR - Deployed SB_L2 Product Lost Customer Count for Past 12M_Org
+SR - Deployed SB_L1 Product Lost Customer Count for Past 12M_Org
+SR - Deployed SB_L0 Product Lost Customer Count for Past 12M_Org
+SR - Deployed SB Product Lost Customer Count for Past 12M_Org
+SR - Deployed ENT_L2 Product Lost Customer Count for Past 12M_Org
+SR - Deployed ENT_L1 Product Lost Customer Count for Past 12M_Org
+SR - Deployed ENT_L0 Product Lost Customer Count for Past 12M_Org
+SR - Deployed ENT Product Lost Customer Count for Past 12M_Org
+SR - Deployed SB_L2 P_Lost Customer Count byM_Org
+SR - Deployed SB_L1 P_Lost Customer Count byM_Org
+SR - Deployed SB_L0 P_Lost Customer Count byM_Org
+SR - Deployed SB P_Lost Customer Count byM_Org
+SR - Deployed ENT_L2 P_Lost Customer Count byM_Org
+SR - Deployed ENT_L1 P_Lost Customer Count byM_Org
+SR - Deployed ENT_L0 P_Lost Customer Count byM_Org
+SR - Deployed ENT P_Lost Customer Count byM_Org
+SR - Deployed SB_L2 P_Lost Customer Count byQ_Org
+SR - Deployed SB_L1 P_Lost Customer Count byQ_Org
+SR - Deployed SB_L0 P_Lost Customer Count byQ_Org
+SR - Deployed SB P_Lost Customer Count byQ_Org
+SR - Deployed ENT_L2 P_Lost Customer Count byQ_Org
+SR - Deployed ENT_L1 P_Lost Customer Count byQ_Org
+SR - Deployed ENT_L0 P_Lost Customer Count byQ_Org
+SR - Deployed ENT P_Lost Customer Count byQ_Org
+SR - Deployed SB_L2 P_Lost Customer Count byY_Org
+SR - Deployed SB_L1 P_Lost Customer Count byY_Org
+SR - Deployed SB_L0 P_Lost Customer Count byY_Org
+SR - Deployed SB P_Lost Customer Count byY_Org
+SR - Deployed ENT_L2 P_Lost Customer Count byY_Org
+SR - Deployed ENT_L1 P_Lost Customer Count byY_Org
+SR - Deployed ENT_L0 P_Lost Customer Count byY_Org
+SR - Deployed ENT P_Lost Customer Count byY_Org
+SR - Deployed SB_L2 Valid Seat Count_Org
+SR - Deployed SB_L1 Valid Seat Count_Org
+SR - Deployed SB_L0 Valid Seat Count_Org
+SR - Deployed SB Valid Seat Count_Org
+SR - Deployed ENT_L2 Valid Seat Count_Org
+SR - Deployed ENT_L1 Valid Seat Count_Org
+SR - Deployed ENT_L0 Valid Seat Count_Org
+SR - Deployed ENT Valid Seat Count_Org
+Deployed Seat Count_Org
+Deployed Instance Count Control_Org
+Deployed Device Count_Org
+Deployed Device Count Control_Org
+Deploy Device Count CV_S_L2_Org
+Deploy Device Count CV_S_L1_Org

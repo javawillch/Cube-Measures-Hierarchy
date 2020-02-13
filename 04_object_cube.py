@@ -224,6 +224,7 @@ class Cube:
             json.dump(bim_content, opt_file, indent=2)     
 
 def main():
+
     # initial
     acc_cube = Cube('ACC', "inp_Model.bim")
     acc_cube.set_bim()
